@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @slopyabet
+- 👋 Hi, I’m @bidemi.collins
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on ...
